@@ -2,7 +2,7 @@
 
 Aspiring SOC Analyst based in Surrey, BC, actively building hands-on skills
 in threat detection, log analysis, and incident response. This repository
-documents my 8-month journey from foundational networking concepts to
+documents my journey from foundational networking concepts to
 job-ready blue team skills.
 
 ## Certifications in Progress
